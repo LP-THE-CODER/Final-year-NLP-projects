@@ -53,4 +53,4 @@ Feel free to explore each project independently and adapt the code for your own 
 
 --- 
 
-Feel free to customize the README to better suit your repository and provide more specific details about each project.
+
